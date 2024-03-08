@@ -1,0 +1,24 @@
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: aliceblue;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+button{
+    height: 35px;
+    width: 120px;
+    background: rgb(42, 42, 158);
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
